@@ -1,8 +1,6 @@
 from asyncore import loop
 import random
 
-print
-
 
 print("\n\n")
 
